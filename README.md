@@ -1,6 +1,6 @@
 # slots
 
-> homo momo
+> slot test
 
 ## Build Setup
 
